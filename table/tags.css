@@ -1,0 +1,15 @@
+table {
+  border: 1px solid #ccc;
+}
+
+th {
+  font-weight: bold;
+}
+
+table,
+th,
+td {
+margin: 1px;
+  border: 1px solid black;
+  border-collapse: collapse;
+}
